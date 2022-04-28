@@ -6,3 +6,4 @@ My name is Brandon Stoia and I'm a rising junior at Miami University with an exp
 - This project included reading data from the Ohio COVID Dashboard and also accessing unemployment data from the Bureau of Labor Statistics API.
 - Using ggplot in R, I created this dashboard of COVID and Unemployment facts.
 
+![](https://github.com/stoiabr/BrandonStoiaPortfolio/blob/main/images/STA309Mid2COVID.png)
