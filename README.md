@@ -14,6 +14,6 @@ My name is Brandon Stoia and I'm a rising junior at Miami University with an exp
 ![](https://github.com/stoiabr/BrandonStoiaPortfolio/blob/main/images/stoia_map2.png)
 
 ## My Hometown
-- Using Google Maps and county data from the R libraries ggplot2 and maps, I created a visual mapping my hometown.
+- Using Google Earth and county data from the R libraries ggplot2 and maps, I created a visual mapping my hometown.
 
 ![](https://github.com/stoiabr/BrandonStoiaPortfolio/blob/main/images/stoia_map1.png)
