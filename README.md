@@ -16,7 +16,7 @@ My name is Brandon Stoia and I'm a rising junior at Miami University with an exp
 ## Baby Name Project!
 - Using data from the US Social Security Administration, I created a plot comparing most common baby names starting with each letter for babies in 2020.
 
-![](https://github.com/stoiabr/BrandonStoiaPortfolio/blob/main/images/alphabetplot.png)
+![](/images/alphabetplot.png)
 
 - I compared how common my name is to my professors' names.
 
