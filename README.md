@@ -36,11 +36,6 @@ My name is Brandon Stoia and I'm a rising junior at Miami University with an exp
 
 
 ## Diversity at Miami University
-- Using data from my university's Common Data Set, I explored diversity in faculty and students.
-- I found that full time faculty has consistently been about twice as diverse as part time faculty over time. 
-
-![](images/facultyot.png)
-
 - I looked into minority representation in faculty. Miami University lacks the most representation in faculty for Latinx students when compared to Black and Asian students. 
 
 ![](/images/studenttofacultyratios.png)
