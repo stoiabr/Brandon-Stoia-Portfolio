@@ -36,7 +36,13 @@ My name is Brandon Stoia and I'm a rising junior at Miami University with an exp
 
 
 ## Diversity at Miami University
-- I looked into minority representation in faculty. Miami University lacks the most representation in faculty for Latinx students when compared to Black and Asian students. 
+- Using data from my university's Common Data Set, I explored diversity in faculty and students.
+- I found that full time faculty has consistently been about twice as diverse as part time faculty over time. 
+
+![](images/facultyot.png)
+
+- Following the pandemic, many minorities at Miami University saw a decrease in their representation in faculty.
+- Latinx Miami Students see the least amount of representation in faculty, Black students see the biggest decrease in representation.
 
 ![](/images/studenttofacultyratios.png)
 
